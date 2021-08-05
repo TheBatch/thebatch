@@ -20,5 +20,6 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-
+- [Azure Data Lake Storage Gen2 Security — an Overview](https://blog.dasburo.com/azure-data-lake-storage-gen2-security-an-overview-a8e277aac375?source=rss-fb55417b594b------2)
+- [Monitoring New Relic Subscription Usage](https://blog.dasburo.com/monitoring-new-relic-subscription-usage-54de3b6132ed?source=rss-fb55417b594b------2)
 <!-- BLOG-POST-LIST:END -->
