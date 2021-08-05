@@ -1,0 +1,17 @@
+name: Latest stack Medium activity
+on:
+  schedule:
+    # Runs every day at 01:05
+    - cron: '5 1 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme-with-medium-posts:
+    name: Update this repo's README with latest activity from Medium
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          commit_message: "Updated readme with the latest Medium posts"
+          feed_list: "https://martin-st.medium.com/feed"
+          max_post_count: 10
