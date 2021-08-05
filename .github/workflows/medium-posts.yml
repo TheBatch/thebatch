@@ -1,4 +1,4 @@
-name: Latest stack Medium activity
+name: Latest Medium activity
 on:
   schedule:
     # Runs every day at 01:05
