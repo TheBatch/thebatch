@@ -1,8 +1,8 @@
 name: Latest Medium activity
 on:
   schedule:
-    # Runs every day at 23:15 UTC
-    - cron: '15 23 * * *'
+    # Runs every day at 12:15 UTC
+    - cron: '15 12 * * *'
   workflow_dispatch:
 jobs:
   update-readme-with-medium-posts:
