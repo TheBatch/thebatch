@@ -20,6 +20,7 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Shift-Left Security](https://blog.dasburo.com/shift-left-security-ce5022290079?source=rss-fb55417b594b------2)
 - [How to set up your Data Lake Project for success](https://blog.dasburo.com/how-to-set-up-your-data-lake-project-for-success-2c9d2709398b?source=rss-fb55417b594b------2)
 - [Azure Data Lake Storage Gen2 Security — an Overview](https://blog.dasburo.com/azure-data-lake-storage-gen2-security-an-overview-a8e277aac375?source=rss-fb55417b594b------2)
 - [Monitoring New Relic Subscription Usage](https://blog.dasburo.com/monitoring-new-relic-subscription-usage-54de3b6132ed?source=rss-fb55417b594b------2)
