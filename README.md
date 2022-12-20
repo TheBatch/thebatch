@@ -20,6 +20,7 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Zero Trust Architectures: The Key to Securing Your Cloud Environment](https://blog.dasburo.com/zero-trust-architectures-the-key-to-securing-your-cloud-environment-a3dcbede45a?source=rss-fb55417b594b------2)
 - [Apollo Federation and SAFe: The Ultimate Combination for Enterprise Scalability](https://blog.dasburo.com/apollo-federation-and-safe-the-ultimate-combination-for-enterprise-scalability-7f362d453f85?source=rss-fb55417b594b------2)
 - [Why Your Business Needs Cloud Financial Management](https://blog.dasburo.com/why-your-business-needs-cloud-financial-management-76f8728f4e99?source=rss-fb55417b594b------2)
 - [Shift-Left Security](https://blog.dasburo.com/shift-left-security-ce5022290079?source=rss-fb55417b594b------2)
