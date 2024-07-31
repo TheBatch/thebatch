@@ -20,6 +20,7 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Prometheus Deep Dive: Alerts, Service Discovery, Exporters and Integrations](https://blog.dasburo.com/prometheus-deep-dive-alerts-service-discovery-exporters-and-integrations-6f496bde2714?source=rss-fb55417b594b------2)
 - [Digital Twins: Bridging the Physical and Digital Worlds](https://blog.dasburo.com/digital-twins-bridging-the-physical-and-digital-worlds-321ba97c3346?source=rss-fb55417b594b------2)
 - [Exploring Prometheus: Understanding Architecture, Mastering Metrics &amp; Dashboards](https://blog.dasburo.com/exploring-prometheus-understanding-architecture-mastering-metrics-dashboards-8a2b2cf95c7f?source=rss-fb55417b594b------2)
 - [Zero Trust Architectures: The Key to Securing Your Cloud Environment](https://blog.dasburo.com/zero-trust-architectures-the-key-to-securing-your-cloud-environment-a3dcbede45a?source=rss-fb55417b594b------2)
