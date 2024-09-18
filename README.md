@@ -20,6 +20,7 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [DevSecOps: Centuries of Innovation Shaping Software](https://blog.dasburo.com/devsecops-centuries-of-innovation-shaping-software-b52c067c3351?source=rss-fb55417b594b------2)
 - [Docker Security Essentials: A Glance at Key Features](https://blog.dasburo.com/docker-security-essentials-a-glance-at-key-features-91de61a606bb?source=rss-fb55417b594b------2)
 - [From Appetizer to Dessert: Cooking Up Reliable Systems with SLIs, SLOs, and SLAs](https://blog.dasburo.com/from-appetizer-to-dessert-cooking-up-reliable-systems-with-slis-slos-and-slas-316266e30dbc?source=rss-fb55417b594b------2)
 - [Prometheus Deep Dive: Alerts, Service Discovery, Exporters and Integrations](https://blog.dasburo.com/prometheus-deep-dive-alerts-service-discovery-exporters-and-integrations-6f496bde2714?source=rss-fb55417b594b------2)
@@ -29,5 +30,4 @@
 - [Apollo Federation and SAFe: The Ultimate Combination for Enterprise Scalability](https://blog.dasburo.com/apollo-federation-and-safe-the-ultimate-combination-for-enterprise-scalability-7f362d453f85?source=rss-fb55417b594b------2)
 - [Why Your Business Needs Cloud Financial Management](https://blog.dasburo.com/why-your-business-needs-cloud-financial-management-76f8728f4e99?source=rss-fb55417b594b------2)
 - [Shift-Left Security](https://blog.dasburo.com/shift-left-security-ce5022290079?source=rss-fb55417b594b------2)
-- [How to set up your Data Lake Project for success](https://blog.dasburo.com/how-to-set-up-your-data-lake-project-for-success-2c9d2709398b?source=rss-fb55417b594b------2)
 <!-- BLOG-POST-LIST:END -->
